@@ -3,6 +3,9 @@ layout: default
 ---
 [back](./)
 
+[UDT-GHG](./app-page.html)
+[User feedback](./feedback-page.html)
+
 ## Urban Digital Twin for accounting building operational greenhouse gas (GHG) emissions
 
 * * *
@@ -26,7 +29,7 @@ Several nations have taken a stance to reduce greenhouse gas (GHG) emissions in 
 * **Oral Presentation, Panel discussion and Poster Exhibition at the Urban Solutions & Sustainability R&D Congress, 4-5th October 2023, Science of Cities Symposium Sessions, Panel 2: Science of Decarbonising Cities.** Topic: _A Global Bottom-up Approach to create Urban Digital Twins (UDT): Mitigating Greenhouse Gas (GHG) Emissions._ <a href="https://www.mnd.gov.sg/urban-solutions-sustainability-r-d-congress-2023/science-of-cities-symposium-sessions/science-of-cities-symposium-panel-2-science-of-decarbonising-cities">URL</a>.
 * **Exhibition booth set-up at the NUS College of Design and Engineering (CDE) Industry Day, 29th September 2023.** An event to bring together experts from industry and academia, Industry Day explored and discussed sustainable solutions for critical issues facing our planet. Interactive tool demonstration - “An Urban Digital Twin Approach to System Resilience”. <a href="https://nus-cde-industry-day.sg/acadp_listings/an-urban-digital-twin-approach-to-system-resilience/">URL</a>.
 * **Research work with Future Cities Laboratory Global featured at Venice Biennale 2023**, as part of the exhibition Time Space Existence by the ECC (European Cultural Centre), Palazzo Mora, Italy.
-* **Poster presentation at CREATE Symposium, 10th July 2023, Science of Sustainable Cities.** Title-_“A global bottom-up approach to create Urban Digital Twins: Mitigating greenhouse gas (GHG) emissions”._
+* **Poster presentation at CREATE Symposium, 10th July 2023, Science of Sustainable Cities.** Title: _“A global bottom-up approach to create Urban Digital Twins: Mitigating greenhouse gas (GHG) emissions”._
 * **Poster presentation at ‘World Cities Summit 2022’ - Liveable and Sustainable Cities: Emerging Stronger**, 31 July – 3 August 2022, Singapore.
 * **Presented at the NUS-SUTD PhD Symposium in Architecture, Design Computing and Engineering: Parallel Session 4**, May 20th, 2022. The Symposium is an annual event jointly hosted by the Department of Architecture (DoA) at NUS and the Architecture and Sustainable Design Pillar (ASD) at SUTD.
 * **Poster presentation at SIMAUD 2022 conference, San Diego, California, USA.** _Mosteiro-Romero, M., Alva, P., Chong, A., Miller, C., and Stouffs, R., 2022. “A digital twin platform for district energy simulation and evaluation”._
