@@ -4,6 +4,7 @@ layout: default
 [back](./)
 
 [UDT-GHG](./app-page.html)
+[Instructions](./instruction-page.html)
 [User feedback](./feedback-page.html)
 
 ## Urban Digital Twin for accounting building operational greenhouse gas (GHG) emissions

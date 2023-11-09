@@ -5,6 +5,7 @@ layout: default
 
 [Research Project](./another-page.html)
 [UDT-GHG](./app-page.html)
+[Instructions](./instruction-page.html)
 
 ## User Feedback for UDT-GHG Dashboard
 
