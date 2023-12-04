@@ -21,7 +21,7 @@ layout: default
 
 * * *
 
-## Methodology for building operational Greenhouse gas (GHG) emissions
+## Methodology for calculating building operational Greenhouse gas (GHG) emissions
 
 * * *
 
@@ -41,7 +41,7 @@ The Global Warming Potential (GWP) for each of seven major GHGs [carbon dioxide 
 
 * * *
 
-The Potential of Intervention (POI) map is created using Multiple-Criteria Decision Analysis ![(MCDA)](https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis). The POI map helps decision makers to prioritise low carbon rejuvenation of building systems in the public housing. A heat map is generated showing the buildings that need urgent rejuvenation based on parameters assigned. Parameters assigned for analysis are: 1. Building Age, 2. Greenhouse gas (GHG) emissions, 3. Replacement cycles of Lifts and 4. Lighting equipments and 5. Building wall painting cycle. These parameters have varied scales and hence normalisation (to a notionally common scale) using sigmoid function is applied in order to aggregate them. Before aggregating, each of parameter is converted to 0 to 1 value using ![(Sigmoid function)](https://en.wikipedia.org/wiki/Sigmoid_function), mid point (0.5) for each parameter is defined as per threshold beyond which needs an intervention from decision maker (see Figure below with Normalisation step).
+The Potential of Intervention (POI) map is created using Multiple-Criteria Decision Analysis ![(MCDA)](https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis). The POI map helps decision makers to prioritise low carbon rejuvenation of building systems in the public housing. A heat map is generated showing the buildings that need urgent rejuvenation based on parameters assigned. Parameters assigned for analysis are: 1. Building Age, 2. Greenhouse gas (GHG) emissions, 3. Replacement cycles of Lifts and 4. Lighting equipments and 5. Building wall painting cycle. These parameters have varied scales and hence ![normalisation](https://en.wikipedia.org/wiki/Normalization_(statistics) (to a notionally common scale) using sigmoid function is applied in order to aggregate them. Before aggregating, each of parameter is converted to 0 to 1 value using ![(Sigmoid function)](https://en.wikipedia.org/wiki/Sigmoid_function), mid point (0.5) for each parameter is defined as per threshold beyond which needs an intervention from decision maker (see Figure below with Normalisation step).
 
 ### Normalisation of parameters of varied scale using sigmoid function:
 
