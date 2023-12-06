@@ -37,7 +37,7 @@ The Global Warming Potential (GWP) for each of the seven major GHGs [carbon diox
 
 * * *
 
-## Potential for Intervention Map - Public housing (HDB) priority for low-carbon building systems rejuvenation
+## Potential for Intervention Map (Scenario - Year 2040) : Public housing (HDB) priority for low-carbon building systems rejuvenation
 
 * * *
 
@@ -56,7 +56,9 @@ After the normalisation step, each parameter is aggregated to find the Potential
 ### Conclusion:
 
 * The UDT-GHG dashboard and PFI analysis help decision-makers prioritise and plan low-carbon building systems rejuvenation.
-* The impact of this research will increase the demand for more environmental consideration from stakeholders during rejuvenation.
-* There is currently no cap on GHG emissions in the Built Environment sector. The research will help in the development of operational GHG emissions accounting, the introduction of GHG emission limits, the planning of decarbonisation, and achieving climate goals.
+
+* This research will increase the demand for more environmental consideration from stakeholders during rejuvenation.
+
+* There is currently no cap on GHG emissions in the Built Environment sector. The research will help develop operational GHG emissions accounting standards, emission limits, decarbonisation planning, and climate goals.
 
 [back](./)
